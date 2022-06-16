@@ -1,0 +1,4 @@
+- 👋 Hello, i am Felipe Grisales Cardona, also known as Wakks, i'm a digital entertainment design engineer entering the world of web dev.
+- 👀 I’m into scholarships and traveling to a different country to get more knowledge as a person and as a professional.
+- 🌱 I’m currently learning Javascript.
+- 👾 I have worked with C# before.
