@@ -1,20 +1,20 @@
-#Felipe Grisales Cardona# 
+# Felipe Grisales Cardona 
 <sup>Digital Entertainment Design Engineer</sup>
 
-##Web Developer In Proccess##
+## Web Developer In Proccess
 - HTML
 - CSS
 - Javascript
 
-###Currently learning###
+### Currently learning
 - GIT Version control system
 - React Framework
 
-##Get to know my projects##
+## Get to know my projects
 https://www.vivalivetv.com/
 https://boxa-site.netlify.app/
 
-##Experience##
+## Experience
 **2 Years Wordpress sites development**
 <sub>Worked for "BTO Digital", a digital marketing agency from Colombia.
 - Creating landing pages with Wordpress editor and Elementor Plugin.
