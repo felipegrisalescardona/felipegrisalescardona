@@ -1,5 +1,5 @@
 # Felipe Grisales Cardona 
-<sup>Digital Entertainment Design Engineer</sup>
+Digital Entertainment Design Engineer
 
 ## Web Developer In Proccess
 - HTML
